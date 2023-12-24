@@ -3,5 +3,6 @@ ol {
   margin-top: -20px;
   list-style-position: inside;
 }
-
+p {color: red;
+}
 /* Write your CSS below, don't change the rules above. */
